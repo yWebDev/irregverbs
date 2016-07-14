@@ -4,5 +4,5 @@
 var bootstrap = require("bootstrap-webpack");
 var jQuery = require("jquery");
 
-document.write('app4');
+document.write('app');
 console.log('app loaded');
