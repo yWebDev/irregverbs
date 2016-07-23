@@ -1,15 +1,15 @@
-{
-  1: [
+[
+  [
     'be'
     'was, were'
     'been'
   ],
-  2: [
+  [
     'beat',
     'beat',
     'beaten'
   ],
-  3: [
+  [
     'become',
     'became',
     'become'
@@ -128,4 +128,4 @@
   //  win	won	won	Выигрывать
   //  wind	wound	wound	Извиваться
   //  write	wrote	written	Писать
-}
+]
